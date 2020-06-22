@@ -1,5 +1,5 @@
 Arguments: 
-  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js start
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add node-sass@4.7.2
 
 PATH: 
   C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\Aniket\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Program Files\Git\cmd;C:\Program Files\nodejs;C:\Program Files (x86)\Yarn\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Program Files\Git\cmd;C:\Program Files\nodejs;C:\Program Files (x86)\Yarn\bin;C:\Users\Aniket\AppData\Local\Microsoft\WindowsApps;C:\Users\Aniket\Downloads\platform-tools;C:\Users\Aniket\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Aniket\AppData\Roaming\npm;C:\Users\Aniket\AppData\Local\Yarn\bin;C:\Users\Aniket\Downloads\platform-tools
@@ -14,7 +14,7 @@ Platform:
   win32 x64
 
 Trace: 
-  Error: EINVAL: invalid argument, mkdir 'C:\Users\Aniket\Desktop\Projects\Bootstrap\Restaurante Confusion - THKUC\ C:\temp\yarn--1592658974339-0.7712665873977389'
+  Error: C:\Users\Aniket\Desktop\Projects\Bootstrap\Restaurante Confusion - THKUC\node_modules\node-sass: EINVAL: invalid argument, mkdir 'C:\Users\Aniket\Desktop\Projects\Bootstrap\Restaurante Confusion - THKUC\ C:\temp\yarn--1592808706685-0.40208063983629305'
 
 npm manifest: 
   {
