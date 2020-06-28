@@ -28,7 +28,7 @@ header {
 
 .banner-underline {
     width: 300px;
-    border: 3px solid #F15025;
+    border: 3px solid #98C1D9;
     margin: 0px auto 20px auto;
 }
 
@@ -45,7 +45,7 @@ header {
 
 .banner-center a:hover,
 .banner a:focus {
-    color: #F15025;
+    color: #98C1D9;
     background-color: whitesmoke;
 }
 
@@ -58,7 +58,7 @@ header {
 
 .title-underline {
     width: 150px;
-    border: 3px solid #F15025;
+    border: 3px solid #98C1D9;
     margin: 0px auto 10px auto;
 }
 /*end-of-title*/
@@ -67,7 +67,7 @@ header {
 /*skill-section*/
 #skills{
     padding: 40px;
-    color: #2d3142;
+    color: #98C1D9;
     margin-bottom: 10px;
 }
 
@@ -78,7 +78,7 @@ header {
 
 #skills a{
     margin-bottom: 20px;
-    background-color: #F15025;
+    background-color: #98C1D9;
     color: whitesmoke;
     font-size: 20px;
 }
@@ -126,9 +126,44 @@ header {
 #contact button{
     font-size: 24px;
     margin-bottom: 20px;
+    background-color: #98C1D9;
+    border: none;
 }
 
 #contact button:hover{
     background-color: #ced0ce;
 }
 /*End-of-Contact-Section*/
+
+
+
+/*Footer-Section*/
+#footer{
+    padding: 40px;
+    color: whitesmoke;
+    background-color: #353531;
+}
+
+#footer .footer-icons{
+    font-size: 60px;
+    padding-top: 30px;
+}
+
+#footer .title-underline{
+    margin-bottom: 40px;
+}
+
+#footer .footer-icons a {
+    color: deepskyblue;
+    text-decoration: none;
+}
+
+#footer .footer-icons a:hover{
+    color: #6F5E53;
+}
+
+#footer .copyrights h3{
+    padding: 40px 0;
+    color: #ced0ce;
+}
+/*End-of-Footer-Section*/
