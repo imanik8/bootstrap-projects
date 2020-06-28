@@ -111,3 +111,24 @@ header {
     justify-content: center;
 }
 /*end-of-about-section*/
+
+
+/*Contact Section*/
+#contact {
+    padding: 40px ;
+    background-color: whitesmoke;
+}
+
+#contact .form-control {
+    font-size: 20px;
+}
+
+#contact button{
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+#contact button:hover{
+    background-color: #ced0ce;
+}
+/*End-of-Contact-Section*/
