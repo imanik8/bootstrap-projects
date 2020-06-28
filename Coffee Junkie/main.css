@@ -29,7 +29,7 @@ header {
 .banner-underline {
     width: 300px;
     border: 3px solid #F15025;
-    margin: 0px auto 20px;
+    margin: 0px auto 20px auto;
 }
 
 .banner-center a{
@@ -48,3 +48,42 @@ header {
     color: #F15025;
     background-color: whitesmoke;
 }
+
+/*end-of-banner*/
+
+/*title*/
+.title{
+    margin: 20px 0;
+}
+
+.title-underline {
+    width: 150px;
+    border: 3px solid #F15025;
+    margin: 0px auto 10px auto;
+}
+/*end-of-title*/
+
+
+/*skill-section*/
+#skills{
+    padding: 40px;
+    color: #2d3142;
+    margin-bottom: 10px;
+}
+
+#skills .fa{
+    font-size: 100px;
+    margin-bottom: 10px;
+}
+
+#skills a{
+    margin-bottom: 20px;
+    background-color: #F15025;
+    color: whitesmoke;
+    font-size: 20px;
+}
+
+#skills a:hover {
+    background-color: #ced0ce;
+}
+/*end-of-skill-section*/
