@@ -10,6 +10,27 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
+/*navbar*/
+.transparent{
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.navbar-toggler-icon{
+    border: 5px solid black;
+    padding: 30px;
+    background-color: #98c1d9;
+}
+
+.nav-link, .navbar-brand{
+    color: #98c1d9!important;
+    font-size: 25px;
+}
+
+.navbar a:hover{
+    color: whitesmoke!important;
+}
+/*end-of-navbar*/
+
 header {
     height: 100vh;
     background: url(1.jpg) fixed;
