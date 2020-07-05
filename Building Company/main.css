@@ -2,6 +2,8 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
+
+/* Header-Section */
 header{
     height: 100vh;
     background: url(1.jpg) fixed;
@@ -63,3 +65,34 @@ header{
 .navy-btn:focus{
     color: #98c1d9;
 }
+/* End-of-Header-Section */
+
+
+/* Qualitites Section */
+/* Title Section */
+.title{
+    margin: 20px 0 40px 0; 
+}
+
+.title-underline{
+    width: 150px;
+    border: 3px solid #98C1D9;
+    margin: 0px auto 10px auto;
+}
+/* End-of-title */
+
+#qualities {
+    background-color: #CED0CE;
+    padding: 40px;
+}
+
+#qualities .fa{
+        font-size: 100px;
+        color: #98c1d9;
+        margin-bottom: 10px;
+}
+
+#qualities h2 {
+    margin-bottom: 20px;
+}
+/* End-of-Qualities-Section */
