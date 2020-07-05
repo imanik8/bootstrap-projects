@@ -124,6 +124,30 @@ header{
 }
 /* End-of-Projects-Section */
 
+/*Contact-Section*/
+#contact{
+    padding: 40px;
+    background-color: whitesmoke;
+}
+
+#contact .form-control{
+    border-radius: 0;
+    font-size: 20px;
+}
+
+#contact button{
+    background-color: #353531;
+    font-size: 24px;
+    color: #98C1D9;
+    margin-bottom: 20px;
+}
+
+#contact button:hover {
+    background-color: #CED0CE;
+}   
+/*End-of-Contact-Section*/
+
+
 
 /* Media */
 @media screen and (max-width:800px){
